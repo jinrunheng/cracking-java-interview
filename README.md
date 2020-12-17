@@ -7,7 +7,8 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Java中的数据类型？String属于哪种类型？基本数据类型有什么？   | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question1.md) |
 | String,StringBuilder,StringBuffer的区别？哪一种是线程安全的？它们的应用场景是什么？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question2.md) |
-|                                                              |                                                              |
+| [说出下面程序运行的结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question3.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question3_answer.md) |
+| [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question4.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question4_answer.md) |
 
 ### 数据结构与算法篇
 
