@@ -10,7 +10,7 @@
 | [说出下面程序运行的结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question3.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question3_answer.md) |
 | [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question4.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question4_answer.md) |
 | 谈一下你对面向对象的理解？                                   | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question5_answer.md) |
-| 重载是什么？重写是什么？                                     |                                                              |
+| 重载是什么？重写是什么？                                     | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question6_answer.md) |
 
 ### 数据结构与算法篇
 
