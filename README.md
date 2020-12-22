@@ -1,5 +1,9 @@
 # cracking-java-interview
-这是我个人整理的关于Java面试，笔试题及答案，欢迎你的fork与star
+这是我个人整理的关于Java面试，笔试题及答案
+
+题目收集于各种面经及书籍，有部分题目为我个人原创或经过我个人改编；绝大部分答案与解析均为本人撰写
+
+欢迎你的fork与star
 
 ### Java基础篇
 
@@ -17,7 +21,7 @@
 
 | 考点     | 题目                                                         | 答案解析                                                     |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 树       |                                                              |                                                              |
+| 树       | [下面这棵树的前序，中序，后序遍历的结果依次是怎样的？](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question1.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question1_answer.md) |
 | 树       | [103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/binary-tree-zigzag-level-order-traversal/explanation.md) |
 | 数学     | [剑指 Offer 14- I. 剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/math/jian-sheng-zi-lcof/explanation.md) |
 | 数学     | [剑指 Offer 14- II. 剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/math/jian-sheng-zi-ii-lcof/explanation.md) |
