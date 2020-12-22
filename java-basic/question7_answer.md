@@ -108,7 +108,7 @@ int b = a;
    * @since  1.5 
    */  
   public static Integer valueOf(int i) {  
-      if(i >= >= IntegerCache.low && i <= IntegerCache.high)  
+      if(i >= IntegerCache.low && i <= IntegerCache.high)  
           return IntegerCache.cache[i + (-IntegerCache.low)];  
       else  
           return new Integer(i);  
