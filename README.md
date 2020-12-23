@@ -19,6 +19,12 @@
 | 为什么不能根据返回类型区分重载？                             | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question9_answer.md) |
 | [说出下面程序运行的结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question7.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question7_answer.md) |
 | [静态代码块，非静态代码块，构造器的执行顺序？请说出程序的输出结果](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question8.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question8_answer.md) |
+| 抽象类和接口的异同？谈一下你认为什么时候使用抽象类，什么时候使用接口？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question11_answer.md) |
+| 抽象类中的抽象方法可以被声明为`protected`修饰的吗？`private`修饰可以吗？ |                                                              |
+| 接口中的抽象方法可以声明为`protected`修饰的吗？              |                                                              |
+| 为什么Java中接口的成员变量被隐式声明为`public static final`？ |                                                              |
+| 抽象类是否一定要有抽象方法？                                 |                                                              |
+| 抽象类可以继承接口吗？抽象类可以继承实体类吗？               |                                                              |
 
 ### 数据结构与算法篇
 
