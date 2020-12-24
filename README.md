@@ -60,9 +60,10 @@
 
 ### 数据库篇
 
-| 序号 | 题目                                                         | 答案解析 |
-| ---- | ------------------------------------------------------------ | -------- |
-|      | [620. 有趣的电影](https://leetcode-cn.com/problems/not-boring-movies/) |          |
+| 序号 | 题目                                                         | 答案解析                                                     |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|      | 说一下数据库事务的四大特性？                                 |                                                              |
+|      | [620. 有趣的电影](https://leetcode-cn.com/problems/not-boring-movies/) | [题解](https://github.com/jinrunheng/cracking-java-interview/blob/main/db/not-boring-movies/explanation.md) |
 
 
 
