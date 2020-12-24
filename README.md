@@ -23,8 +23,9 @@
 | 12   | 抽象类中的抽象方法可以被声明为`protected`修饰的吗？`private`修饰可以吗？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question12_answer.md) |
 | 13   | 接口中的抽象方法可以声明为`protected`修饰的吗？              | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question13_answer.md) |
 | 14   | 为什么Java中接口的成员变量被隐式声明为`public static final`？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question14_answer.md) |
-| 15   | 抽象类是否一定要有抽象方法？如果不是，那你觉得没有抽象方法的抽象类有什么意义？ |                                                              |
-| 16   | 抽象类可以继承接口吗？抽象类可以继承实体类吗？               |                                                              |
+| 15   | 抽象类是否一定要有抽象方法？如果不是，那你觉得没有抽象方法的抽象类有什么意义？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question15_answer.md) |
+| 16   | 为什么重写`equals()`方法就必须重写`hashCode()`方法？         |                                                              |
+|      | `equals`和`==`的区别？                                       |                                                              |
 
 ### 数据结构与算法篇
 
