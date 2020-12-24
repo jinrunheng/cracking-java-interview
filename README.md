@@ -1,7 +1,7 @@
 # cracking-java-interview
 这是我个人整理的关于Java面试，笔试题及答案
 
-题目收集于各种面经及书籍，有部分题目为我个人原创或经过我个人改编；绝大部分答案与解析均为本人撰写
+题目收集于各种面经，博客，书籍等，有部分题目为我个人原创或经过我个人改编；大部分答案与解析为本人学习中的思考，还有一部分获取自论坛，书籍等优秀解答
 
 欢迎你的fork与star
 
@@ -22,8 +22,8 @@
 | 11   | 抽象类和接口的异同？谈一下你认为什么时候使用抽象类，什么时候使用接口？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question11_answer.md) |
 | 12   | 抽象类中的抽象方法可以被声明为`protected`修饰的吗？`private`修饰可以吗？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question12_answer.md) |
 | 13   | 接口中的抽象方法可以声明为`protected`修饰的吗？              | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question13_answer.md) |
-| 14   | 为什么Java中接口的成员变量被隐式声明为`public static final`？ |                                                              |
-| 15   | 抽象类是否一定要有抽象方法？                                 |                                                              |
+| 14   | 为什么Java中接口的成员变量被隐式声明为`public static final`？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question14_answer.md) |
+| 15   | 抽象类是否一定要有抽象方法？如果不是，那你觉得没有抽象方法的抽象类有什么意义？ |                                                              |
 | 16   | 抽象类可以继承接口吗？抽象类可以继承实体类吗？               |                                                              |
 
 ### 数据结构与算法篇
