@@ -20,7 +20,7 @@
 | 9    | [说出下面程序运行的结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question7.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question7_answer.md) |
 | 10   | [静态代码块，非静态代码块，构造器的执行顺序？请说出程序的输出结果](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question8.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question8_answer.md) |
 | 11   | 抽象类和接口的异同？谈一下你认为什么时候使用抽象类，什么时候使用接口？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question11_answer.md) |
-| 12   | 抽象类中的抽象方法可以被声明为`protected`修饰的吗？`private`修饰可以吗？ |                                                              |
+| 12   | 抽象类中的抽象方法可以被声明为`protected`修饰的吗？`private`修饰可以吗？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question12_answer.md) |
 | 13   | 接口中的抽象方法可以声明为`protected`修饰的吗？              |                                                              |
 | 14   | 为什么Java中接口的成员变量被隐式声明为`public static final`？ |                                                              |
 | 15   | 抽象类是否一定要有抽象方法？                                 |                                                              |
