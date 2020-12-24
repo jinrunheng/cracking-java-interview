@@ -58,5 +58,11 @@
 |      | 滑动窗口 | [剑指 Offer 59 - I. 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/sliding-window/hua-dong-chuang-kou-de-zui-da-zhi-lcof/explanation.md) |
 |      | 滑动窗口 | [剑指 Offer 59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/data-structure-design/dui-lie-de-zui-da-zhi-lcof/explanation.md) |
 
+### 数据库篇
+
+| 序号 | 题目                                                         | 答案解析 |
+| ---- | ------------------------------------------------------------ | -------- |
+|      | [620. 有趣的电影](https://leetcode-cn.com/problems/not-boring-movies/) |          |
+
 
 
