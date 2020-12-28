@@ -27,7 +27,7 @@
 |      | 抽象类是否一定要有抽象方法？如果不是，那你觉得没有抽象方法的抽象类有什么意义？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question15_answer.md) |
 |      | 为什么重写`equals()`方法就必须重写`hashCode()`方法？         |                                                              |
 |      | `equals`和`==`的区别？                                       |                                                              |
-|      | 在Java中，创建对象有哪几种方式？                             |                                                              |
+|      | 在Java中，创建对象有哪几种方式？                             | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question17_answer.md) |
 |      | 谈一下浅拷贝和深拷贝？                                       |                                                              |
 
 ### 数据结构与算法篇
