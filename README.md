@@ -19,7 +19,7 @@
 | 8    | 为什么不能根据返回类型区分重载？                             | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question9_answer.md) |
 | 9    | [说出下面程序运行的结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question7.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question7_answer.md) |
 | 10   | [静态代码块，非静态代码块，构造器的执行顺序？请说出程序的输出结果](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question8.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question8_answer.md) |
-|      | 非静态方法是否可以调用静态成员变量？静态方法是否可以调用非静态成员变量？ |                                                              |
+|      | 非静态方法是否可以调用静态成员变量？静态方法是否可以调用非静态成员变量？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question16_answer.md) |
 |      | 抽象类和接口的异同？谈一下你认为什么时候使用抽象类，什么时候使用接口？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question11_answer.md) |
 |      | 抽象类中的抽象方法可以被声明为`protected`修饰的吗？`private`修饰可以吗？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question12_answer.md) |
 |      | 接口中的抽象方法可以声明为`protected`修饰的吗？              | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question13_answer.md) |
@@ -27,6 +27,8 @@
 |      | 抽象类是否一定要有抽象方法？如果不是，那你觉得没有抽象方法的抽象类有什么意义？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question15_answer.md) |
 |      | 为什么重写`equals()`方法就必须重写`hashCode()`方法？         |                                                              |
 |      | `equals`和`==`的区别？                                       |                                                              |
+|      | 在Java中，创建对象有哪几种方式？                             |                                                              |
+|      | 谈一下浅拷贝和深拷贝？                                       |                                                              |
 
 ### 数据结构与算法篇
 
