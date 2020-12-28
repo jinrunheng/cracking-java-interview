@@ -11,7 +11,7 @@
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1    | Java中的数据类型？String属于哪种类型？基本数据类型有什么？   | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question1.md) |
 | 2    | 访问修饰符`public`,`private`,`protected`以及不写(`default`)时的区别？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question10_answer.md) |
-| 3    | String,StringBuilder,StringBuffer的区别？哪一种是线程安全的？它们的应用场景是什么？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question2.md) |
+| 3    | `String`,`StringBuilder`,`StringBuffer`的区别？哪一种是线程安全的？它们的应用场景是什么？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question2.md) |
 | 4    | [说出下面程序运行的结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question3.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question3_answer.md) |
 | 5    | [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question4.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question4_answer.md) |
 | 6    | 谈一下你对面向对象的理解？                                   | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question5_answer.md) |
@@ -29,7 +29,8 @@
 |      | `equals`和`==`的区别？                                       |                                                              |
 |      | 在Java中，创建对象有哪几种方式？                             | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question17_answer.md) |
 |      | 谈一下浅拷贝和深拷贝？                                       | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question18_answer.md) |
-|      |                                                              |                                                              |
+|      | 如何实现字符串和基本数据类型的相互转换？                     | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question19_answer.md) |
+|      | `Integer.parseInt()`和`Integer.valueOf()`有什么区别？        |                                                              |
 
 ### 数据结构与算法篇
 
