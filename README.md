@@ -28,7 +28,8 @@
 |      | 为什么重写`equals()`方法就必须重写`hashCode()`方法？         |                                                              |
 |      | `equals`和`==`的区别？                                       |                                                              |
 |      | 在Java中，创建对象有哪几种方式？                             | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question17_answer.md) |
-|      | 谈一下浅拷贝和深拷贝？                                       |                                                              |
+|      | 谈一下浅拷贝和深拷贝？                                       | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question18_answer.md) |
+|      |                                                              |                                                              |
 
 ### 数据结构与算法篇
 
