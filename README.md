@@ -38,6 +38,10 @@
 | ---- | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |      | 字符串   | [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/string/ti-huan-kong-ge-lcof/explanation.md) |
 |      | 链表     | [剑指 Offer 24. 反转链表(你能使用多种思路完成该问题吗？)](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/linked-list/fan-zhuan-lian-biao-lcof/explanation.md) |
+|      | 栈与队列 | [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/valid-parentheses/explanation.md) |
+|      | 栈与队列 | [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)   | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/min-stack/explanation.md) |
+|      | 栈与队列 | [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/implement-stack-using-queues/explanation.md) |
+|      | 栈与队列 | [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/implement-queue-using-stacks/explanation.md) |
 |      | 树       | [下面这棵树的前序，中序，后序遍历的结果依次是怎样的？](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question1.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question1_answer.md) |
 |      | 树       | [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [递归写法](https://github.com/jinrunheng/algorithm/blob/main/tags/tree/binary-tree-preorder-traversal/method1/Solution.java) |
 |      | 树       | [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [非递归写法](https://github.com/jinrunheng/algorithm/blob/main/tags/tree/binary-tree-preorder-traversal/method2/Solution.java) |
