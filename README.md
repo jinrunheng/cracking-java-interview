@@ -31,6 +31,8 @@
 |      | 谈一下浅拷贝和深拷贝？                                       | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question18_answer.md) |
 |      | 如何实现字符串和基本数据类型的相互转换？                     | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question19_answer.md) |
 |      | `Integer.parseInt()`和`Integer.valueOf()`有什么区别？        | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question20_answer.md) |
+|      | 说出下面程序的输出结果，并解释为什么？                       |                                                              |
+|      | 说出下面程序的输出结果，并解释为什么？                       |                                                              |
 
 ### 数据结构与算法篇
 
