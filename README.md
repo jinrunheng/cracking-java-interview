@@ -34,7 +34,7 @@
 |      | [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question21.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question21_answer.md) |
 |      | [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question22.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question22_answer.md) |
 |      | Error和Exception的区别？                                     | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question24_answer.md) |
-|      | 什么是受检查异常(Checked Exception)？什么是不受检查异常(Unchecked Exception)？ |                                                              |
+|      | 什么是受检查异常(Checked Exception)？什么是不受检查异常(Unchecked Exception)？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question25_answer.md) |
 |      | 你知道哪些Error？哪些Exception？简单说明是由什么原因导致这种Error/Exception？ |                                                              |
 |      | `throw`与`throws`有什么区别？                                |                                                              |
 |      | [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question23.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question23_answer.md) |
