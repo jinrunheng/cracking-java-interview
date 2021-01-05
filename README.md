@@ -49,7 +49,7 @@
 |      | 排序基础   | 请写出插入排序的代码？                                       | [插入排序](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson1/InsertionSort.java) |
 |      | 排序基础   | 选择，冒泡，插入排序的时间复杂度？插入排序和前两个排序的区别？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question2_answer.md) |
 |      | 排序基础   | 请写出归并排序？归并排序的时间复杂度？简单说明归并排序思路？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question3_answer.md) |
-|      | 排序基础   | 请写出快速排序？快速排序的时间复杂度？简单说明快排思路？     |                                                              |
+|      | 排序基础   | 请写出快速排序？快速排序的时间复杂度？简单说明快排思路？     | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question4_answer.md) |
 |      | 排序基础   | 请写出堆排序？堆排序的时间复杂度？简单说明堆排序思路？       |                                                              |
 |      | 排序基础   | 什么是排序的稳定性？哪种排序是稳定的，那种排序是非稳定的？   |                                                              |
 |      | 字符串     | [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/string/ti-huan-kong-ge-lcof/explanation.md) |
