@@ -38,7 +38,7 @@
 |      | 说出一些常见的运行时异常?                                    | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question26_answer.md) |
 |      | 写一个程序，使得运行时抛出`StackOverflowError`？             | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question27_answer.md) |
 |      | 写一个程序，使得运行时抛出`OutOfMemoryError`？               | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question28_answer.md) |
-|      | `throw`与`throws`有什么区别？                                |                                                              |
+|      | `throw`与`throws`有什么区别？                                | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question30_answer.md) |
 |      | [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question29.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question29_answer.md) |
 |      | [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question23.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question23_answer.md) |
 |      | 关于Java中的异常处理，你有什么心得或经验？                   |                                                              |
