@@ -41,7 +41,7 @@
 |      | `throw`与`throws`有什么区别？                                | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question30_answer.md) |
 |      | [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question29.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question29_answer.md) |
 |      | [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question23.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question23_answer.md) |
-|      | 关于Java中的异常处理，你有什么心得或经验？                   |                                                              |
+|      | 关于Java中的异常处理，你有什么心得或经验？                   | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question31_answer.md) |
 
 ### 数据结构与算法篇
 
