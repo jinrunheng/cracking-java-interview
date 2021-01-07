@@ -9,6 +9,7 @@
 
 | 序号 | 题目                                                         | 答案解析                                                     |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|      | **Java基础(数据类型，基本语法，面向对象)**                   |                                                              |
 | 1    | Java中的数据类型？String属于哪种类型？基本数据类型有什么？   | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question1.md) |
 | 2    | 访问修饰符`public`,`private`,`protected`以及不写(`default`)时的区别？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question10_answer.md) |
 | 3    | `String`,`StringBuilder`,`StringBuffer`的区别？哪个是线程安全的？它们的应用场景？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question2.md) |
@@ -33,6 +34,7 @@
 |      | `Integer.parseInt()`和`Integer.valueOf()`有什么区别？        | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question20_answer.md) |
 |      | [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question21.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question21_answer.md) |
 |      | [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question22.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question22_answer.md) |
+|      | **Java异常**                                                 |                                                              |
 |      | Error和Exception的区别？                                     | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question24_answer.md) |
 |      | 什么是受检查异常(Checked Exception)？什么是不受检查异常(Unchecked Exception)？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question25_answer.md) |
 |      | 说出一些常见的运行时异常?                                    | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question26_answer.md) |
@@ -42,6 +44,11 @@
 |      | [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question29.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question29_answer.md) |
 |      | [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question23.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question23_answer.md) |
 |      | 关于Java中的异常处理，你有什么心得或经验？                   | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question31_answer.md) |
+|      | **Java集合**                                                 |                                                              |
+|      | 使用过`Arrays`这个操作数组的工具类吗？简单介绍下你使用过哪些方法？ |                                                              |
+|      | `ArrayList`与`LinkedList`有什么区别？                        |                                                              |
+|      | 你知道有哪些遍历`map`的方法？                                |                                                              |
+|      | `Comparable`和`Comparator`接口有什么区别？                   |                                                              |
 
 ### 数据结构与算法篇
 
