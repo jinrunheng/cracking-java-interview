@@ -90,6 +90,8 @@
 |      | 贪心算法   | [605. 种花问题](https://leetcode-cn.com/problems/can-place-flowers/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/can-place-flowers/explanation.md) |
 |      | 滑动窗口   | [剑指 Offer 59 - I. 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/sliding-window/hua-dong-chuang-kou-de-zui-da-zhi-lcof/explanation.md) |
 |      | 滑动窗口   | [剑指 Offer 59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/data-structure-design/dui-lie-de-zui-da-zhi-lcof/explanation.md) |
+|      | 并查集     | [547. 省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/number-of-provinces/explanation.md) |
+|      | 并查集     |                                                              |                                                              |
 
 ### JVM篇
 
@@ -97,10 +99,6 @@
 | ---- | --------------------------------------------- | -------- |
 |      | 说一下什么是JDK,JRE,JVM？它们之间有什么联系？ |          |
 |      | 为什么Java能够实现平台无关性？                |          |
-
-
-
-
 
 ### 数据库篇
 
