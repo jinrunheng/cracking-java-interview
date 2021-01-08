@@ -53,7 +53,7 @@
 |      | 使用过`Arrays`这个操作数组的工具类吗？简单介绍下你使用过哪些方法？ |                                                              |
 |      | `ArrayList`与`LinkedList`有什么区别？                        |                                                              |
 |      | 你知道有哪些初始化`map`的方法？                              |                                                              |
-|      | 你知道有哪些遍历`map`的方法？                                |                                                              |
+|      | 你知道有哪些遍历`map`的方法？                                | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question33_answer.md) |
 |      | `Comparable`和`Comparator`接口有什么区别？                   | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question32_answer.md) |
 
 ### 数据结构与算法篇
