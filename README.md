@@ -65,6 +65,7 @@
 |      | 字符串     | [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/string/ti-huan-kong-ge-lcof/explanation.md) |
 |      | 字符串     | [剑指 Offer 58 - II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/string/zuo-xuan-zhuan-zi-fu-chuan-lcof/explanation.md) |
 |      | 数组与列表 | [830. 较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/positions-of-large-groups/explanation.md) |
+|      | 数组与列表 | [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/rotate-array/explanation.md) |
 |      | 链表       | [剑指 Offer 24. 反转链表(你能使用多种思路完成该问题吗？)](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/linked-list/fan-zhuan-lian-biao-lcof/explanation.md) |
 |      | 链表       | [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/linked-list/partition-list/explanation.md) |
 |      | 栈与队列   | [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/valid-parentheses/explanation.md) |
