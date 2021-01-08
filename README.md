@@ -3,7 +3,9 @@
 
 题目收集于各种面经，博客，书籍等，有部分题目为我个人原创或经过我个人改编；大部分答案与解析为本人学习中的思考，还有一部分获取自论坛，书籍等优秀解答
 
-欢迎你的fork与star
+如果你觉得还不错，欢迎**fork**与**star**~
+
+
 
 ### Java基础篇
 
@@ -45,6 +47,8 @@
 |      | [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question23.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question23_answer.md) |
 |      | 关于Java中的异常处理，你有什么心得或经验？                   | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question31_answer.md) |
 |      | **Java集合**                                                 |                                                              |
+|      | 使用过`Collections`这个工具类么？简单介绍下你使用过哪些方法？ |                                                              |
+|      | `Collection`和`Collections`分别是什么？                      |                                                              |
 |      | 使用过`Arrays`这个操作数组的工具类吗？简单介绍下你使用过哪些方法？ |                                                              |
 |      | `ArrayList`与`LinkedList`有什么区别？                        |                                                              |
 |      | 你知道有哪些遍历`map`的方法？                                |                                                              |
