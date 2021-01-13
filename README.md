@@ -61,69 +61,69 @@
 
 ### 数据结构与算法篇
 
-| 序号 | 考点         | 题目                                                         | 答案解析                                                     |
-| ---- | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|      | 排序基础     | 请写出选择排序的代码？                                       | [选择排序](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson1/SelectionSort.java) |
-|      | 排序基础     | 请写出冒泡排序的代码？                                       | [冒泡排序](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson1/BubbleSort.java) |
-|      | 排序基础     | 请写出插入排序的代码？                                       | [插入排序](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson1/InsertionSort.java) |
-|      | 排序基础     | 选择，冒泡，插入排序的时间复杂度？插入排序和前两个排序的区别？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question2_answer.md) |
-|      | 排序基础     | 请写出归并排序？归并排序的时间复杂度？简单说明归并排序思路？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question3_answer.md) |
-|      | 排序基础     | 请写出快速排序？快速排序的时间复杂度？简单说明快排思路？     | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question4_answer.md) |
-|      | 排序基础     | 请写出堆排序？堆排序的时间复杂度？简单说明堆排序思路？       | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question5_answer.md) |
-|      | 排序基础     | 什么是排序的稳定性？哪种排序是稳定的，哪种排序是非稳定的？   |                                                              |
-|      | 字符串       | [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/string/ti-huan-kong-ge-lcof/explanation.md) |
-|      | 字符串       | [剑指 Offer 58 - II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/string/zuo-xuan-zhuan-zi-fu-chuan-lcof/explanation.md) |
-|      | 数组与列表   | [228. 汇总区间](https://leetcode-cn.com/problems/summary-ranges/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/summary-ranges/explanation.md) |
-|      | 数组与列表   | [830. 较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/positions-of-large-groups/explanation.md) |
-|      | 数组与列表   | [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/rotate-array/explanation.md) |
-|      | 矩阵         | [剑指 Offer 29. 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/matrix/shun-shi-zhen-da-yin-ju-zhen-lcof/explanation.md) |
-|      | 链表         | [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/linked-list/shan-chu-lian-biao-de-jie-dian-lcof/explanation.md) |
-|      | 链表         | [剑指 Offer 24. 反转链表(你能使用多种思路完成该问题吗？)](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/linked-list/fan-zhuan-lian-biao-lcof/explanation.md) |
-|      | 链表         | [剑指 Offer 25. 合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/linked-list/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/explanation.md) |
-|      | 链表         | [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/linked-list/partition-list/explanation.md) |
-|      | 链表         | [剑指 Offer 35. 复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) |                                                              |
-|      | 栈与队列     | [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/valid-parentheses/explanation.md) |
-|      | 栈与队列     | [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)   | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/min-stack/explanation.md) |
-|      | 栈与队列     | [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/implement-stack-using-queues/explanation.md) |
-|      | 栈与队列     | [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/implement-queue-using-stacks/explanation.md) |
-|      | 树           | [下面这棵树的前序，中序，后序遍历的结果依次是怎样的？](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question1.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question1_answer.md) |
-|      | 树           | [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [递归写法](https://github.com/jinrunheng/algorithm/blob/main/tags/tree/binary-tree-preorder-traversal/method1/Solution.java) |
-|      | 树           | [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [非递归写法](https://github.com/jinrunheng/algorithm/blob/main/tags/tree/binary-tree-preorder-traversal/method2/Solution.java) |
-|      | 树           | [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [递归写法](https://github.com/jinrunheng/algorithm/blob/main/tags/tree/binary-tree-inorder-traversal/method1/Solution.java) |
-|      | 树           | [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [非递归写法](https://github.com/jinrunheng/algorithm/blob/main/tags/tree/binary-tree-inorder-traversal/method2/Solution.java) |
-|      | 树           | [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [递归写法](https://github.com/jinrunheng/algorithm/blob/main/tags/tree/binary-tree-postorder-traversal/method1/Solution.java) |
-|      | 树           | [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [非递归写法](https://github.com/jinrunheng/algorithm/blob/main/tags/tree/binary-tree-postorder-traversal/method2/Solution.java) |
-|      | 树           | [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [答案](https://github.com/jinrunheng/algorithm/blob/main/tags/tree/binary-tree-level-order-traversal/Solution.java) |
-|      | 树           | [103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/binary-tree-zigzag-level-order-traversal/explanation.md) |
-|      | 数学         | [剑指 Offer 14- I. 剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/math/jian-sheng-zi-lcof/explanation.md) |
-|      | 数学         | [剑指 Offer 14- II. 剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/math/jian-sheng-zi-ii-lcof/explanation.md) |
-|      | 位运算       | 数组中，只有一个数出现奇数次，其他数均出现偶数次，如何找到这个数？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question6_answer.md) |
-|      | 位运算       |                                                              |                                                              |
-|      | 位运算       | [剑指 Offer 15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [题解](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/tags/bitewise-operation/er-jin-zhi-zhong-1de-ge-shu-lcof/explanation.md) |
-|      | 位运算       |                                                              |                                                              |
-|      | 位运算       |                                                              |                                                              |
-|      | 动态规划     | [剑指 Offer 10- I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/fei-bo-na-qi-shu-lie-lcof/explanation.md) |
-|      | 动态规划     | [剑指 Offer 10- II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/qing-wa-tiao-tai-jie-wen-ti-lcof/explanation.md) |
-|      | 动态规划     | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/min-cost-climbing-stairs/explanation.md) |
-|      | 动态规划     | [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/min-cost-climbing-stairs/explanation.md) |
-|      | 动态规划     | [剑指 Offer 49. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/chou-shu-lcof/explanation.md) |
-|      | 动态规划     | [剑指 Offer 47. 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/li-wu-de-zui-da-jie-zhi-lcof/explanation.md) |
-|      | 动态规划     | [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/best-time-to-buy-and-sell-stock/explanation.md) |
-|      | 动态规划     | [714. 买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/best-time-to-buy-and-sell-stock-with-transaction-fee/explanation.md) |
-|      | 动态规划     | [309. 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/best-time-to-buy-and-sell-stock-with-cooldown/explanation.md) |
-|      | 动态规划     | [123. 买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/best-time-to-buy-and-sell-stock-iii/explanation.md) |
-|      | 贪心算法     | [135. 分发糖果](https://leetcode-cn.com/problems/candy/)     | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/candy/explanation.md) |
-|      | 贪心算法     | [455. 分发饼干](https://leetcode-cn.com/problems/assign-cookies/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/assign-cookies/explanation.md) |
-|      | 贪心算法     | [881. 救生艇](https://leetcode-cn.com/problems/boats-to-save-people/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/greedy/boats-to-save-people/explanation.md) |
-|      | 贪心算法     | [605. 种花问题](https://leetcode-cn.com/problems/can-place-flowers/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/can-place-flowers/explanation.md) |
-|      | 贪心算法     | [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/best-time-to-buy-and-sell-stock-ii/explanation.md) |
-|      | 滑动窗口     | [剑指 Offer 59 - I. 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/sliding-window/hua-dong-chuang-kou-de-zui-da-zhi-lcof/explanation.md) |
-|      | 滑动窗口     | [剑指 Offer 59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/data-structure-design/dui-lie-de-zui-da-zhi-lcof/explanation.md) |
-|      | 并查集       | [547. 省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/number-of-provinces/explanation.md) |
-|      | 并查集       | [684. 冗余连接](https://leetcode-cn.com/problems/redundant-connection/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/redundant-connection/explanation.md) |
-|      | 并查集       | [1202. 交换字符串中的元素](https://leetcode-cn.com/problems/smallest-string-with-swaps/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/smallest-string-with-swaps/explanation.md) |
-|      | 图(拓扑排序) | [207. 课程表](https://leetcode-cn.com/problems/course-schedule/) |                                                              |
-|      | 图(拓扑排序) | [1203. 项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/) |                                                              |
+| 序号 | 考点       | 题目                                                         | 答案解析                                                     |
+| ---- | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|      | 排序基础   | 请写出选择排序的代码？                                       | [选择排序](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson1/SelectionSort.java) |
+|      | 排序基础   | 请写出冒泡排序的代码？                                       | [冒泡排序](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson1/BubbleSort.java) |
+|      | 排序基础   | 请写出插入排序的代码？                                       | [插入排序](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson1/InsertionSort.java) |
+|      | 排序基础   | 选择，冒泡，插入排序的时间复杂度？插入排序和前两个排序的区别？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question2_answer.md) |
+|      | 排序基础   | 请写出归并排序？归并排序的时间复杂度？简单说明归并排序思路？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question3_answer.md) |
+|      | 排序基础   | 请写出快速排序？快速排序的时间复杂度？简单说明快排思路？     | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question4_answer.md) |
+|      | 排序基础   | 请写出堆排序？堆排序的时间复杂度？简单说明堆排序思路？       | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question5_answer.md) |
+|      | 排序基础   | 什么是排序的稳定性？哪种排序是稳定的，哪种排序是非稳定的？   |                                                              |
+|      | 字符串     | [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/string/ti-huan-kong-ge-lcof/explanation.md) |
+|      | 字符串     | [剑指 Offer 58 - II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/string/zuo-xuan-zhuan-zi-fu-chuan-lcof/explanation.md) |
+|      | 数组与列表 | [228. 汇总区间](https://leetcode-cn.com/problems/summary-ranges/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/summary-ranges/explanation.md) |
+|      | 数组与列表 | [830. 较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/positions-of-large-groups/explanation.md) |
+|      | 数组与列表 | [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/rotate-array/explanation.md) |
+|      | 矩阵       | [剑指 Offer 29. 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/matrix/shun-shi-zhen-da-yin-ju-zhen-lcof/explanation.md) |
+|      | 链表       | [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/linked-list/shan-chu-lian-biao-de-jie-dian-lcof/explanation.md) |
+|      | 链表       | [剑指 Offer 24. 反转链表(你能使用多种思路完成该问题吗？)](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/linked-list/fan-zhuan-lian-biao-lcof/explanation.md) |
+|      | 链表       | [剑指 Offer 25. 合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/linked-list/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/explanation.md) |
+|      | 链表       | [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/linked-list/partition-list/explanation.md) |
+|      | 链表       | [剑指 Offer 35. 复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) |                                                              |
+|      | 栈与队列   | [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/valid-parentheses/explanation.md) |
+|      | 栈与队列   | [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)   | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/min-stack/explanation.md) |
+|      | 栈与队列   | [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/implement-stack-using-queues/explanation.md) |
+|      | 栈与队列   | [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/implement-queue-using-stacks/explanation.md) |
+|      | 树         | [下面这棵树的前序，中序，后序遍历的结果依次是怎样的？](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question1.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question1_answer.md) |
+|      | 树         | [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [递归写法](https://github.com/jinrunheng/algorithm/blob/main/tags/tree/binary-tree-preorder-traversal/method1/Solution.java) |
+|      | 树         | [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [非递归写法](https://github.com/jinrunheng/algorithm/blob/main/tags/tree/binary-tree-preorder-traversal/method2/Solution.java) |
+|      | 树         | [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [递归写法](https://github.com/jinrunheng/algorithm/blob/main/tags/tree/binary-tree-inorder-traversal/method1/Solution.java) |
+|      | 树         | [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [非递归写法](https://github.com/jinrunheng/algorithm/blob/main/tags/tree/binary-tree-inorder-traversal/method2/Solution.java) |
+|      | 树         | [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [递归写法](https://github.com/jinrunheng/algorithm/blob/main/tags/tree/binary-tree-postorder-traversal/method1/Solution.java) |
+|      | 树         | [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [非递归写法](https://github.com/jinrunheng/algorithm/blob/main/tags/tree/binary-tree-postorder-traversal/method2/Solution.java) |
+|      | 树         | [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [答案](https://github.com/jinrunheng/algorithm/blob/main/tags/tree/binary-tree-level-order-traversal/Solution.java) |
+|      | 树         | [103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/binary-tree-zigzag-level-order-traversal/explanation.md) |
+|      | 数学       | [剑指 Offer 14- I. 剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/math/jian-sheng-zi-lcof/explanation.md) |
+|      | 数学       | [剑指 Offer 14- II. 剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/math/jian-sheng-zi-ii-lcof/explanation.md) |
+|      | 位运算     | 数组中，只有一个数出现奇数次，其他数均出现偶数次，如何找到这个数？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question6_answer.md) |
+|      | 位运算     |                                                              |                                                              |
+|      | 位运算     | [剑指 Offer 15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [题解](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/tags/bitewise-operation/er-jin-zhi-zhong-1de-ge-shu-lcof/explanation.md) |
+|      | 位运算     | [剑指 Offer 56 - I. 数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) |                                                              |
+|      | 位运算     |                                                              |                                                              |
+|      | 动态规划   | [剑指 Offer 10- I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/fei-bo-na-qi-shu-lie-lcof/explanation.md) |
+|      | 动态规划   | [剑指 Offer 10- II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/qing-wa-tiao-tai-jie-wen-ti-lcof/explanation.md) |
+|      | 动态规划   | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/min-cost-climbing-stairs/explanation.md) |
+|      | 动态规划   | [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/min-cost-climbing-stairs/explanation.md) |
+|      | 动态规划   | [剑指 Offer 49. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/chou-shu-lcof/explanation.md) |
+|      | 动态规划   | [剑指 Offer 47. 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/li-wu-de-zui-da-jie-zhi-lcof/explanation.md) |
+|      | 动态规划   | [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/best-time-to-buy-and-sell-stock/explanation.md) |
+|      | 动态规划   | [714. 买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/best-time-to-buy-and-sell-stock-with-transaction-fee/explanation.md) |
+|      | 动态规划   | [309. 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/best-time-to-buy-and-sell-stock-with-cooldown/explanation.md) |
+|      | 动态规划   | [123. 买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/best-time-to-buy-and-sell-stock-iii/explanation.md) |
+|      | 贪心算法   | [135. 分发糖果](https://leetcode-cn.com/problems/candy/)     | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/candy/explanation.md) |
+|      | 贪心算法   | [455. 分发饼干](https://leetcode-cn.com/problems/assign-cookies/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/assign-cookies/explanation.md) |
+|      | 贪心算法   | [881. 救生艇](https://leetcode-cn.com/problems/boats-to-save-people/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/greedy/boats-to-save-people/explanation.md) |
+|      | 贪心算法   | [605. 种花问题](https://leetcode-cn.com/problems/can-place-flowers/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/can-place-flowers/explanation.md) |
+|      | 贪心算法   | [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/best-time-to-buy-and-sell-stock-ii/explanation.md) |
+|      | 滑动窗口   | [剑指 Offer 59 - I. 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/sliding-window/hua-dong-chuang-kou-de-zui-da-zhi-lcof/explanation.md) |
+|      | 滑动窗口   | [剑指 Offer 59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/data-structure-design/dui-lie-de-zui-da-zhi-lcof/explanation.md) |
+|      | 并查集     | [547. 省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/number-of-provinces/explanation.md) |
+|      | 并查集     | [684. 冗余连接](https://leetcode-cn.com/problems/redundant-connection/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/redundant-connection/explanation.md) |
+|      | 并查集     | [1202. 交换字符串中的元素](https://leetcode-cn.com/problems/smallest-string-with-swaps/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/smallest-string-with-swaps/explanation.md) |
+|      | 图论算法   | [207. 课程表](https://leetcode-cn.com/problems/course-schedule/) |                                                              |
+|      | 图论算法   | [1203. 项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/) |                                                              |
 
 ### JVM篇
 
