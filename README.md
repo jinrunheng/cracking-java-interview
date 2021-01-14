@@ -7,21 +7,23 @@
 
 
 
-### Java基础篇
+### 基础篇
 
 | 序号 | 题目                                                         | 答案解析                                                     |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|      | **Java基础(数据类型，基本语法，面向对象)**                   |                                                              |
-| 1    | `Java`中的数据类型？`String`属于哪种类型？基本数据类型有什么？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question1.md) |
-| 2    | 访问修饰符`public`,`private`,`protected`以及不写(`default`)时的区别？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question10_answer.md) |
-| 3    | `String`,`StringBuilder`,`StringBuffer`的区别？哪个是线程安全的？它们的应用场景？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question2.md) |
-| 4    | [说出下面程序运行的结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question3.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question3_answer.md) |
-| 5    | [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question4.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question4_answer.md) |
-| 6    | 谈一下你对面向对象的理解？                                   | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question5_answer.md) |
-| 7    | 重载是什么？重写是什么？                                     | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question6_answer.md) |
-| 8    | 为什么不能根据返回类型区分重载？                             | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question9_answer.md) |
-| 9    | [说出下面程序运行的结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question7.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question7_answer.md) |
-| 10   | [静态代码块，非静态代码块，构造器的执行顺序？请说出程序的输出结果](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question8.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question8_answer.md) |
+|      | **逻辑智力题**                                               |                                                              |
+|      | 请说出该问题的答案？                                         |                                                              |
+|      | **Java基础**                                                 |                                                              |
+|      | `Java`中的数据类型？`String`属于哪种类型？基本数据类型有什么？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question1.md) |
+|      | 访问修饰符`public`,`private`,`protected`以及不写(`default`)时的区别？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question10_answer.md) |
+|      | `String`,`StringBuilder`,`StringBuffer`的区别？哪个是线程安全的？它们的应用场景？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question2.md) |
+|      | [说出下面程序运行的结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question3.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question3_answer.md) |
+|      | [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question4.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question4_answer.md) |
+|      | 谈一下你对面向对象的理解？                                   | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question5_answer.md) |
+|      | 重载是什么？重写是什么？                                     | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question6_answer.md) |
+|      | 为什么不能根据返回类型区分重载？                             | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question9_answer.md) |
+|      | [说出下面程序运行的结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question7.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question7_answer.md) |
+|      | [静态代码块，非静态代码块，构造器的执行顺序？请说出程序的输出结果](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question8.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question8_answer.md) |
 |      | 非静态方法是否可以调用静态成员变量？静态方法是否可以调用非静态成员变量？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question16_answer.md) |
 |      | 抽象类和接口的异同？谈一下你认为什么时候使用抽象类，什么时候使用接口？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question11_answer.md) |
 |      | 抽象类中的抽象方法可以被声明为`protected`修饰的吗？`private`修饰可以吗？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question12_answer.md) |
@@ -55,7 +57,7 @@
 |      | 你知道有哪些初始化`map`的方法？                              | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question34_answer.md) |
 |      | 你知道有哪些遍历`map`的方法？                                | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question33_answer.md) |
 |      | `Comparable`和`Comparator`接口有什么区别？                   | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question32_answer.md) |
-|      | **Git**                                                      |                                                              |
+|      | **Git与Linux命令基础**                                       |                                                              |
 |      | `git`和`svn`有什么区别？                                     |                                                              |
 |      | 说下你平时常用的几个`git`命令？                              |                                                              |
 
@@ -131,6 +133,8 @@
 | ---- | --------------------------------------------- | -------- |
 |      | 说一下什么是JDK,JRE,JVM？它们之间有什么联系？ |          |
 |      | 为什么Java能够实现平台无关性？                |          |
+|      | 请说下类加载的过程？                          |          |
+|      | 什么是双亲委派模型？                          |          |
 
 ### 数据库篇
 
