@@ -12,6 +12,8 @@
 | 序号 | 题目                                                         | 答案解析                                                     |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |      | **逻辑智力题**                                               |                                                              |
+|      | [请说出该问题的答案？](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question1.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question1_answer.md) |
+|      | 请说出该问题的答案？                                         |                                                              |
 |      | 请说出该问题的答案？                                         |                                                              |
 |      | **Java基础**                                                 |                                                              |
 |      | `Java`中的数据类型？`String`属于哪种类型？基本数据类型有什么？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question1.md) |
