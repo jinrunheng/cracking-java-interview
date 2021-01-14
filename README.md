@@ -34,7 +34,7 @@
 |      | **Java基础**                                                 |                                                              |
 |      | `Java`中的数据类型？`String`属于哪种类型？基本数据类型有什么？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question1.md) |
 |      | 用最有效率的方法计算`2`乘以`8`？                             | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question35_answer.md) |
-|      | 说下`&`和`&&`的区别？                                        |                                                              |
+|      | 说下`&`和`&&`的区别？                                        | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question36_answer.md) |
 |      | [说出下面程序运行的结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question37.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question37_answer.md) |
 |      | 访问修饰符`public`,`private`,`protected`以及不写(`default`)时的区别？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question10_answer.md) |
 |      | `String`,`StringBuilder`,`StringBuffer`的区别？哪个是线程安全的？它们的应用场景？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question2.md) |
