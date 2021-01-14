@@ -1,11 +1,26 @@
 # cracking-java-interview
 这是我个人整理的关于Java面试，笔试题及答案
 
-题目收集于各种面经，博客，书籍等，有部分题目为我个人原创或经过我个人改编；大部分答案与解析为本人学习中的思考，还有一部分获取自论坛，书籍等优秀解答
+题目收集于各种面经，博客，书籍等，也有部分题目为我个人原创或经过我个人改编；一部分答案与解析是我在学习中的思考，还有一部分获取自论坛，书籍等优秀解答
 
 如果你觉得还不错，欢迎**fork**与**star**~
 
 
+
+~~*假装是分割线*~~
+
+本人只是一个热爱学习与总结的小小程序员一枚（￣３￣）
+
+并非出自大厂，更不是什么大牛，我只在自己能力范围内做事 ^_^.......
+
+如果你对于某些问题有疑惑，看了答案解析后还是不能理解，我愿意和你沟通交流
+
+如果你发现题目或回答有误，经过我对你的解答考虑核实后，我也愿意接受批评，改正错误
+
+联系方式：
+
+- VX：kimhsm1218（请注明你的添加意图！例如：问答勘误，沟通学习等，**绝不闲聊**）
+- Email：jinrunheng@foxmail.com
 
 ### 基础篇
 
@@ -13,10 +28,14 @@
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |      | **逻辑智力题**                                               |                                                              |
 |      | [请说出该问题的答案？](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question1.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question1_answer.md) |
-|      | 请说出该问题的答案？                                         |                                                              |
-|      | 请说出该问题的答案？                                         |                                                              |
+|      | [请说出该问题的答案？](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question2.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question2_answer.md) |
+|      | [请说出该问题的答案？](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question3.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question3_answer.md) |
+|      | [请说出该问题的答案？](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question4.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question4_answer.md) |
 |      | **Java基础**                                                 |                                                              |
 |      | `Java`中的数据类型？`String`属于哪种类型？基本数据类型有什么？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question1.md) |
+|      | 用最有效率的方法计算`2`乘以`8`？                             |                                                              |
+|      | 说下`&`和`&&`的区别？                                        |                                                              |
+|      | [说出下面程序运行的结果，并解释为什么？]()                   |                                                              |
 |      | 访问修饰符`public`,`private`,`protected`以及不写(`default`)时的区别？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question10_answer.md) |
 |      | `String`,`StringBuilder`,`StringBuffer`的区别？哪个是线程安全的？它们的应用场景？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question2.md) |
 |      | [说出下面程序运行的结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question3.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question3_answer.md) |
@@ -126,8 +145,8 @@
 |      | 并查集     | [547. 省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/number-of-provinces/explanation.md) |
 |      | 并查集     | [684. 冗余连接](https://leetcode-cn.com/problems/redundant-connection/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/redundant-connection/explanation.md) |
 |      | 并查集     | [1202. 交换字符串中的元素](https://leetcode-cn.com/problems/smallest-string-with-swaps/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/smallest-string-with-swaps/explanation.md) |
-|      | 图论算法   | [207. 课程表](https://leetcode-cn.com/problems/course-schedule/) |                                                              |
-|      | 图论算法   | [1203. 项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/) |                                                              |
+|      | 图论       | [207. 课程表](https://leetcode-cn.com/problems/course-schedule/) |                                                              |
+|      | 图论       | [1203. 项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/) |                                                              |
 
 ### JVM篇
 
