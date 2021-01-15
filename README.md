@@ -81,6 +81,9 @@
 |      | **Git与Linux命令基础**                                       |                                                              |
 |      | `git`和`svn`有什么区别？                                     |                                                              |
 |      | 说下你平时常用的几个`git`命令？                              |                                                              |
+|      | **设计模式**                                                 |                                                              |
+|      | 说下什么是单例模式？                                         |                                                              |
+|      | 请写出一个单例模式的示例程序？                               |                                                              |
 
 ### 数据结构与算法篇
 
@@ -145,6 +148,7 @@
 |      | 并查集     | [547. 省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/number-of-provinces/explanation.md) |
 |      | 并查集     | [684. 冗余连接](https://leetcode-cn.com/problems/redundant-connection/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/redundant-connection/explanation.md) |
 |      | 并查集     | [1202. 交换字符串中的元素](https://leetcode-cn.com/problems/smallest-string-with-swaps/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/smallest-string-with-swaps/explanation.md) |
+|      | 并查集     | [947. 移除最多的同行或同列石头](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column/) | [代码](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/most-stones-removed-with-same-row-or-column/Solution.java) |
 |      | 图论       | [207. 课程表](https://leetcode-cn.com/problems/course-schedule/) |                                                              |
 |      | 图论       | [1203. 项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/) |                                                              |
 
