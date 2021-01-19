@@ -128,6 +128,7 @@
 |      | 位运算     | [剑指 Offer 15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [题解](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/tags/bitewise-operation/er-jin-zhi-zhong-1de-ge-shu-lcof/explanation.md) |
 |      | 位运算     | [剑指 Offer 56 - I. 数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) | [题解](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/tags/bitewise-operation/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/explanation.md) |
 |      | 位运算     |                                                              |                                                              |
+|      | 二分法     | `sqrt(2)`约等于 `1.414`,要求不用库函数将`sqrt(2)`精确到小数点后`10`位？ | [题解]()                                                     |
 |      | 动态规划   | [剑指 Offer 10- I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/fei-bo-na-qi-shu-lie-lcof/explanation.md) |
 |      | 动态规划   | [剑指 Offer 10- II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/qing-wa-tiao-tai-jie-wen-ti-lcof/explanation.md) |
 |      | 动态规划   | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/min-cost-climbing-stairs/explanation.md) |
