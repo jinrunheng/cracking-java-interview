@@ -127,7 +127,7 @@
 |      | 位运算     | [剑指 Offer 15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [题解](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/tags/bitewise-operation/er-jin-zhi-zhong-1de-ge-shu-lcof/explanation.md) |
 |      | 位运算     | [剑指 Offer 56 - I. 数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) | [题解](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/tags/bitewise-operation/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/explanation.md) |
 |      | 位运算     |                                                              |                                                              |
-|      | 二分法     | `sqrt(2)`约等于 `1.414`,要求不用库函数将`sqrt(2)`精确到小数点后`10`位？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question7_answer.md) |
+|      | 二分法     | `sqrt(2)`约等于 `1.414`,不用库函数将`sqrt(2)`精确到小数点后10位？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question7_answer.md) |
 |      | 二分法     | 写一个方法，判断某个数字是否在一个已序数组中？               | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question8_answer.md) |
 |      | 二分法     | 在一个有序数组中，找到大于等于某个数字最左的位置,没有则返回 `-1`？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question9_answer.md) |
 |      | 动态规划   | [剑指 Offer 10- I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/fei-bo-na-qi-shu-lie-lcof/explanation.md) |
