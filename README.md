@@ -19,7 +19,6 @@
 
 联系方式：
 
-- VX：kimhsm1218（请注明你的添加意图！例如：问答勘误，沟通学习等，**绝不闲聊**）
 - Email：jinrunheng@foxmail.com
 
 ### 基础篇
@@ -130,6 +129,7 @@
 |      | 位运算     |                                                              |                                                              |
 |      | 二分法     | `sqrt(2)`约等于 `1.414`,要求不用库函数将`sqrt(2)`精确到小数点后`10`位？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question7_answer.md) |
 |      | 二分法     | 写一个方法，判断某个数字是否在一个已序数组中？               | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question8_answer.md) |
+|      | 二分法     | 在一个有序数组中，找到大于等于某个数字最左的位置,没有则返回 `-1`？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question9_answer.md) |
 |      | 动态规划   | [剑指 Offer 10- I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/fei-bo-na-qi-shu-lie-lcof/explanation.md) |
 |      | 动态规划   | [剑指 Offer 10- II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/qing-wa-tiao-tai-jie-wen-ti-lcof/explanation.md) |
 |      | 动态规划   | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/min-cost-climbing-stairs/explanation.md) |
