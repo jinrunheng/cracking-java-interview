@@ -111,6 +111,10 @@
 |      | 栈与队列 | [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)   | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/min-stack/explanation.md) |
 |      | 栈与队列 | [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/implement-stack-using-queues/explanation.md) |
 |      | 栈与队列 | [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/implement-queue-using-stacks/explanation.md) |
+|      | 栈与队列 | [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/monotonous-stack/daily-temperatures/explanation.md) |
+|      | 栈与队列 | [962. 最大宽度坡](https://leetcode-cn.com/problems/maximum-width-ramp/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/monotonous-stack/maximum-width-ramp/explanation.md) |
+|      | 栈与队列 | [402. 移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/remove-k-digits/explanation.md) |
+|      | 栈与队列 | [321. 拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/create-maximum-number/explanation.md) |
 |      | 树       | [下面这棵树的前序，中序，后序遍历的结果依次是怎样的？](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question1.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question1_answer.md) |
 |      | 树       | [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [递归写法](https://github.com/jinrunheng/algorithm/blob/main/tags/tree/binary-tree-preorder-traversal/method1/Solution.java) |
 |      | 树       | [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [非递归写法](https://github.com/jinrunheng/algorithm/blob/main/tags/tree/binary-tree-preorder-traversal/method2/Solution.java) |
@@ -123,6 +127,8 @@
 |      | 数学     | [剑指 Offer 14- I. 剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/math/jian-sheng-zi-lcof/explanation.md) |
 |      | 数学     | [剑指 Offer 14- II. 剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/math/jian-sheng-zi-ii-lcof/explanation.md) |
 |      | 数学     | [剑指 Offer 39. 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/math/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/explanation.md) |
+|      | 数学     | [204. 计数质数](https://leetcode-cn.com/problems/count-primes/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/count-primes/explanation.md) |
+|      | 数学     | [1010. 总持续时间可被 60 整除的歌曲](https://leetcode-cn.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/math/pairs-of-songs-with-total-durations-divisible-by-60/explanation.md) |
 |      | 位运算   | 使用最快的方式，交换整型数组中任意两个位置的数字？           | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question10_answer.md) |
 |      | 位运算   | 数组中，只有一个数出现奇数次，其他数均出现偶数次，如何找到这个数？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question6_answer.md) |
 |      | 位运算   | [剑指 Offer 65. 不用加减乘除做加法](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/bitewise-operation/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/explanation.md) |
@@ -138,6 +144,9 @@
 |      | 动态规划 | [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/min-cost-climbing-stairs/explanation.md) |
 |      | 动态规划 | [剑指 Offer 49. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/chou-shu-lcof/explanation.md) |
 |      | 动态规划 | [剑指 Offer 47. 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/li-wu-de-zui-da-jie-zhi-lcof/explanation.md) |
+|      | 动态规划 | [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/house-robber/explanation.md) |
+|      | 动态规划 | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/coin-change/explanation.md) |
+|      | 动态规划 | [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/minimum-path-sum/explanation.md) |
 |      | 动态规划 | [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/best-time-to-buy-and-sell-stock/explanation.md) |
 |      | 动态规划 | [714. 买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/best-time-to-buy-and-sell-stock-with-transaction-fee/explanation.md) |
 |      | 动态规划 | [309. 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/best-time-to-buy-and-sell-stock-with-cooldown/explanation.md) |
@@ -147,6 +156,9 @@
 |      | 贪心算法 | [881. 救生艇](https://leetcode-cn.com/problems/boats-to-save-people/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/greedy/boats-to-save-people/explanation.md) |
 |      | 贪心算法 | [605. 种花问题](https://leetcode-cn.com/problems/can-place-flowers/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/can-place-flowers/explanation.md) |
 |      | 贪心算法 | [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/best-time-to-buy-and-sell-stock-ii/explanation.md) |
+|      | 贪心算法 | [134. 加油站](https://leetcode-cn.com/problems/gas-station/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/gas-station/explanation.md) |
+|      | 贪心算法 | [649. Dota2 参议院](https://leetcode-cn.com/problems/dota2-senate/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/dota2-senate/explanation.md) |
+|      | 贪心算法 | [1518. 换酒问题](https://leetcode-cn.com/problems/water-bottles/) |                                                              |
 |      | 滑动窗口 | [剑指 Offer 59 - I. 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/sliding-window/hua-dong-chuang-kou-de-zui-da-zhi-lcof/explanation.md) |
 |      | 滑动窗口 | [剑指 Offer 59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/data-structure-design/dui-lie-de-zui-da-zhi-lcof/explanation.md) |
 |      | 并查集   | [547. 省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/number-of-provinces/explanation.md) |
