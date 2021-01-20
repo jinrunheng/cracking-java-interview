@@ -114,7 +114,7 @@
 |      | 栈与队列 | [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/monotonous-stack/daily-temperatures/explanation.md) |
 |      | 栈与队列 | [962. 最大宽度坡](https://leetcode-cn.com/problems/maximum-width-ramp/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/monotonous-stack/maximum-width-ramp/explanation.md) |
 |      | 栈与队列 | [402. 移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/remove-k-digits/explanation.md) |
-|      | 栈与队列 | [321. 拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/create-maximum-number/explanation.md) |
+|      | 栈与队列 | [321. 拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/remove-k-digits/explanation.md) |
 |      | 树       | [下面这棵树的前序，中序，后序遍历的结果依次是怎样的？](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question1.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/question1_answer.md) |
 |      | 树       | [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [递归写法](https://github.com/jinrunheng/algorithm/blob/main/tags/tree/binary-tree-preorder-traversal/method1/Solution.java) |
 |      | 树       | [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [非递归写法](https://github.com/jinrunheng/algorithm/blob/main/tags/tree/binary-tree-preorder-traversal/method2/Solution.java) |
