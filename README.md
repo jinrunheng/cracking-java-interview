@@ -11,15 +11,21 @@
 
 本人只是一个热爱学习与总结的小小程序员一枚（￣３￣）
 
-并非出自大厂，更不是什么大牛，我只在自己能力范围内做事 ^_^.......
+并非出自大厂，更不是什么大牛，仅在自己能力范围内做事 ，所以部分解答可能很粗浅片面，还请谅解本人实力有限
 
 如果你对于某些问题有疑惑，看了答案解析后还是不能理解，我愿意和你沟通交流
 
-如果你发现题目或回答有误，经过我对你的解答考虑核实后，我也愿意接受批评，改正错误
-
-联系方式：
+这是我的联系方式，邮件通常会在24小时内回复
 
 - Email：jinrunheng@foxmail.com
+
+如果你发现题目或回答有误，也欢迎你提issue
+
+经过我对你的issue考虑核实无误后，我也接受批评，改正错误
+
+总之，我愿意分享并和你共同进步 ^_^.......
+
+
 
 ### 基础篇
 
@@ -158,7 +164,7 @@
 |      | 贪心算法 | [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/best-time-to-buy-and-sell-stock-ii/explanation.md) |
 |      | 贪心算法 | [134. 加油站](https://leetcode-cn.com/problems/gas-station/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/gas-station/explanation.md) |
 |      | 贪心算法 | [649. Dota2 参议院](https://leetcode-cn.com/problems/dota2-senate/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/dota2-senate/explanation.md) |
-|      | 贪心算法 | [1518. 换酒问题](https://leetcode-cn.com/problems/water-bottles/) |                                                              |
+|      | 贪心算法 | [1518. 换酒问题](https://leetcode-cn.com/problems/water-bottles/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/greedy/water-bottles/explanation.md) |
 |      | 滑动窗口 | [剑指 Offer 59 - I. 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/sliding-window/hua-dong-chuang-kou-de-zui-da-zhi-lcof/explanation.md) |
 |      | 滑动窗口 | [剑指 Offer 59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/data-structure-design/dui-lie-de-zui-da-zhi-lcof/explanation.md) |
 |      | 并查集   | [547. 省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/number-of-provinces/explanation.md) |
