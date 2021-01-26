@@ -21,7 +21,7 @@
 
 如果你发现题目或回答有误，也欢迎你提issue
 
-经过我对你的issue考虑核实无误后，我也接受批评，改正错误
+经过我对你提的issue考虑核实无误后，我也会接受批评，改正错误
 
 总之，我愿意分享并和你共同进步 ^_^.......
 
@@ -56,8 +56,8 @@
 |      | 接口中的抽象方法可以声明为`protected`修饰的吗？              | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question13_answer.md) |
 |      | 为什么`Java`中接口的成员变量被隐式声明为`public static final`？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question14_answer.md) |
 |      | 抽象类是否一定要有抽象方法？如果不是，那你觉得没有抽象方法的抽象类有什么意义？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question15_answer.md) |
-|      | 为什么重写`equals()`方法就必须重写`hashCode()`方法？         |                                                              |
 |      | `equals`和`==`的区别？                                       |                                                              |
+|      | 为什么重写`equals()`方法就必须重写`hashCode()`方法？         |                                                              |
 |      | 在`Java`中，创建对象有哪几种方式？                           | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question17_answer.md) |
 |      | 谈一下浅拷贝和深拷贝？                                       | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question18_answer.md) |
 |      | 如何实现字符串和基本数据类型的相互转换？                     | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question19_answer.md) |
@@ -104,6 +104,7 @@
 |      | 排序基础 | 什么是排序的稳定性？哪种排序是稳定的，哪种排序是非稳定的？   |                                                              |
 |      | 字符串   | [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/string/ti-huan-kong-ge-lcof/explanation.md) |
 |      | 字符串   | [剑指 Offer 58 - II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/string/zuo-xuan-zhuan-zi-fu-chuan-lcof/explanation.md) |
+|      | 数组     | [剑指 Offer 57. 和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/two-pointers/he-wei-sde-liang-ge-shu-zi-lcof/explanation.md) |
 |      | 数组     | [228. 汇总区间](https://leetcode-cn.com/problems/summary-ranges/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/summary-ranges/explanation.md) |
 |      | 数组     | [830. 较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/positions-of-large-groups/explanation.md) |
 |      | 数组     | [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/rotate-array/explanation.md) |
