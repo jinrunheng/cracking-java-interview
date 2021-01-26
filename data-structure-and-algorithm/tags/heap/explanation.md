@@ -29,11 +29,37 @@ class Solution {
 
 #### 解题思路二：堆
 
+维护一个大根堆，在索引小于k之前，将数组遍历到的数字依次添加至堆，从索引为k的数字开始，每次都比较该数字和堆顶的大小，如果小于堆顶，就将堆顶数字移除，将该数字添加至堆；
+
+最后，将堆中所有的数字添加到返回的结果数组中即可
+
 #### 代码
 
 *Java*
 
 ```java
+class Solution {
+    public int[] getLeastNumbers(int[] arr, int k) {
+        if(k == 0){
+            return new int[0];
+        }
+        int[] res = new int[k];
+        PriorityQueue<Integer> maxHeap = new PriorityQueue<Integer>((o1,o2) -> o2 - o1);
+        for(int i = 0; i < k; i++){
+            maxHeap.offer(arr[i]);
+        }
+        for(int i = k; i < arr.length; i++){
+            if(maxHeap.peek() > arr[i]){
+                maxHeap.poll();
+                maxHeap.offer(arr[i]);
+            }
+        }
+        for(int i = 0; i < k; i++){
+            res[i] = maxHeap.poll();
+        }
+        return res;
+    }
 
+}
 ```
 
