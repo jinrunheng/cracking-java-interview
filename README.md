@@ -173,6 +173,7 @@
 |      | 并查集   | [1202. 交换字符串中的元素](https://leetcode-cn.com/problems/smallest-string-with-swaps/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/smallest-string-with-swaps/explanation.md) |
 |      | 并查集   | [947. 移除最多的同行或同列石头](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column/) | [代码](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/most-stones-removed-with-same-row-or-column/Solution.java) |
 |      | 并查集   | [803. 打砖块](https://leetcode-cn.com/problems/bricks-falling-when-hit/) | [代码](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/bricks-falling-when-hit/Solution.java) |
+|      | 并查集   | [1319. 连通网络的操作次数](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/number-of-operations-to-make-network-connected/explanation.md) |
 |      | 图论     | [207. 课程表](https://leetcode-cn.com/problems/course-schedule/) |                                                              |
 |      | 图论     | [1203. 项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/) |                                                              |
 
