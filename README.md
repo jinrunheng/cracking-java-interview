@@ -23,7 +23,7 @@
 
 经过我对你提的issue考虑核实无误后，我也会接受批评，改正错误
 
-总之，我愿意分享并和你共同进步 ^_^.......
+总之，我愿意分享并和你共同进步 ^_^....... 一起加油！
 
 
 
@@ -166,6 +166,7 @@
 |      | 贪心算法 | [134. 加油站](https://leetcode-cn.com/problems/gas-station/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/gas-station/explanation.md) |
 |      | 贪心算法 | [649. Dota2 参议院](https://leetcode-cn.com/problems/dota2-senate/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/dota2-senate/explanation.md) |
 |      | 贪心算法 | [1518. 换酒问题](https://leetcode-cn.com/problems/water-bottles/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/greedy/water-bottles/explanation.md) |
+|      | 堆       | [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [题解](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/tags/heap/explanation.md) |
 |      | 滑动窗口 | [剑指 Offer 59 - I. 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/sliding-window/hua-dong-chuang-kou-de-zui-da-zhi-lcof/explanation.md) |
 |      | 滑动窗口 | [剑指 Offer 59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/data-structure-design/dui-lie-de-zui-da-zhi-lcof/explanation.md) |
 |      | 并查集   | [547. 省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/number-of-provinces/explanation.md) |
