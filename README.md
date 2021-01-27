@@ -114,6 +114,10 @@
 |      | 链表     | [剑指 Offer 25. 合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/linked-list/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/explanation.md) |
 |      | 链表     | [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/linked-list/partition-list/explanation.md) |
 |      | 链表     | [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/linked-list/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/explanation.md) |
+|      | 链表     | [剑指 Offer 06. 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/linked-list/cong-wei-dao-tou-da-yin-lian-biao-lcof/explanation.md) |
+|      | 链表     | [剑指 Offer 52. 两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/linked-list/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/explanation.md) |
+|      | 链表     | [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/linked-list/linked-list-cycle/explanation.md) |
+|      | 链表     | [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/linked-list/linked-list-cycle-ii/explanation.md) |
 |      | 链表     | [剑指 Offer 35. 复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) |                                                              |
 |      | 栈与队列 | [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/valid-parentheses/explanation.md) |
 |      | 栈与队列 | [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)   | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/min-stack/explanation.md) |
