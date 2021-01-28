@@ -86,6 +86,7 @@
 |      | 数组     | [228. 汇总区间](https://leetcode-cn.com/problems/summary-ranges/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/summary-ranges/explanation.md) |
 |      | 数组     | [830. 较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/positions-of-large-groups/explanation.md) |
 |      | 数组     | [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/rotate-array/explanation.md) |
+|      | 数组     | [724. 寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/find-pivot-index/explanation.md) |
 |      | 矩阵     | [剑指 Offer 29. 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/matrix/shun-shi-zhen-da-yin-ju-zhen-lcof/explanation.md) |
 |      | 链表     | [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/linked-list/shan-chu-lian-biao-de-jie-dian-lcof/explanation.md) |
 |      | 链表     | [剑指 Offer 24. 反转链表(你能使用多种思路完成该问题吗？)](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/linked-list/fan-zhuan-lian-biao-lcof/explanation.md) |
