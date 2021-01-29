@@ -82,7 +82,8 @@
 |      | 排序基础 | 什么是排序的稳定性？哪种排序是稳定的，哪种排序是非稳定的？   |                                                              |
 |      | 字符串   | [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/string/ti-huan-kong-ge-lcof/explanation.md) |
 |      | 字符串   | [剑指 Offer 58 - II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/string/zuo-xuan-zhuan-zi-fu-chuan-lcof/explanation.md) |
-|      | 哈希表   | [剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) |                                                              |
+|      | 哈希表   | [剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [题解](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/tags/hash/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/explanation.md) |
+|      | 哈希表   | [剑指 Offer 50. 第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) |                                                              |
 |      | 数组     | [剑指 Offer 57. 和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/two-pointers/he-wei-sde-liang-ge-shu-zi-lcof/explanation.md) |
 |      | 数组     | [228. 汇总区间](https://leetcode-cn.com/problems/summary-ranges/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/summary-ranges/explanation.md) |
 |      | 数组     | [830. 较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/positions-of-large-groups/explanation.md) |
