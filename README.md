@@ -117,6 +117,9 @@
 |      | 树       | [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [非递归写法](https://github.com/jinrunheng/algorithm/blob/main/tags/tree/binary-tree-postorder-traversal/method2/Solution.java) |
 |      | 树       | [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [答案](https://github.com/jinrunheng/algorithm/blob/main/tags/tree/binary-tree-level-order-traversal/Solution.java) |
 |      | 树       | [103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/binary-tree-zigzag-level-order-traversal/explanation.md) |
+|      | 树       | [剑指 Offer 32 - I. 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) |                                                              |
+|      | 树       |                                                              |                                                              |
+|      | 树       |                                                              |                                                              |
 |      | 数学     | [剑指 Offer 14- I. 剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/math/jian-sheng-zi-lcof/explanation.md) |
 |      | 数学     | [剑指 Offer 14- II. 剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/math/jian-sheng-zi-ii-lcof/explanation.md) |
 |      | 数学     | [剑指 Offer 39. 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/math/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/explanation.md) |
@@ -152,6 +155,8 @@
 |      | 贪心算法 | [134. 加油站](https://leetcode-cn.com/problems/gas-station/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/gas-station/explanation.md) |
 |      | 贪心算法 | [649. Dota2 参议院](https://leetcode-cn.com/problems/dota2-senate/) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/dota2-senate/explanation.md) |
 |      | 贪心算法 | [1518. 换酒问题](https://leetcode-cn.com/problems/water-bottles/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/greedy/water-bottles/explanation.md) |
+|      | DFS,BFS  |                                                              |                                                              |
+|      | DFS,BFS  |                                                              |                                                              |
 |      | 堆       | [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [题解](https://github.com/jinrunheng/cracking-java-interview/blob/main/data-structure-and-algorithm/tags/heap/explanation.md) |
 |      | 滑动窗口 | [剑指 Offer 59 - I. 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/sliding-window/hua-dong-chuang-kou-de-zui-da-zhi-lcof/explanation.md) |
 |      | 滑动窗口 | [剑指 Offer 59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/data-structure-design/dui-lie-de-zui-da-zhi-lcof/explanation.md) |
