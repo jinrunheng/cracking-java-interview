@@ -61,12 +61,14 @@
 |      | 你知道有哪些初始化`map`的方法？                              | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question34_answer.md) |
 |      | 你知道有哪些遍历`map`的方法？                                | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question33_answer.md) |
 |      | `Comparable`和`Comparator`接口有什么区别？                   | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question32_answer.md) |
-|      | **Git与Linux命令基础**                                       |                                                              |
 |      | `git`和`svn`有什么区别？                                     |                                                              |
 |      | 说下你平时常用的几个`git`命令？                              |                                                              |
-|      | **设计模式**                                                 |                                                              |
 |      | 说下什么是单例模式？                                         |                                                              |
 |      | 请写出一个单例模式的示例程序？                               |                                                              |
+|      | 了解代理模式吗？请简单描述下？                               | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question40_answer.md) |
+|      | 简单说明下 JDK 动态代理是如何实现的？                        |                                                              |
+|      | 为什么 JDK 动态代理是基于接口实现的？                        |                                                              |
+|      | CGLIB 动态代理和 JDK 动态代理的区别？                        |                                                              |
 
 ### 数据结构与算法篇
 
