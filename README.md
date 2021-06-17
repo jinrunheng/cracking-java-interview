@@ -42,6 +42,8 @@
 |      | `Integer.parseInt()`和`Integer.valueOf()`有什么区别？        | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question20_answer.md) |
 |      | [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question21.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question21_answer.md) |
 |      | [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question22.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question22_answer.md) |
+|      | Java 中 new 一个对象发生了什么？                             | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question45_answer.md) |
+|      |                                                              |                                                              |
 |      | **Java异常**                                                 |                                                              |
 |      | `Error`和`Exception`的区别？                                 | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question24_answer.md) |
 |      | 什么是受检查异常(`Checked Exception`)？什么是不受检查异常(`Unchecked Exception`)？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question25_answer.md) |
