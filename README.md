@@ -34,8 +34,8 @@
 |      | 接口中的抽象方法可以声明为`protected`修饰的吗？              | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question13_answer.md) |
 |      | 为什么`Java`中接口的成员变量被隐式声明为`public static final`？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question14_answer.md) |
 |      | 抽象类是否一定要有抽象方法？如果不是，那你觉得没有抽象方法的抽象类有什么意义？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question15_answer.md) |
-|      | `equals`和`==`的区别？                                       |                                                              |
-|      | 为什么重写`equals()`方法就必须重写`hashCode()`方法？         |                                                              |
+|      | `equals`和`==`的区别？                                       | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question44_answer.md) |
+|      | 你了解`equals()`与`hashCode()`约定吗？                       |                                                              |
 |      | 在`Java`中，创建对象有哪几种方式？                           | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question17_answer.md) |
 |      | 谈一下浅拷贝和深拷贝？                                       | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question18_answer.md) |
 |      | 如何实现字符串和基本数据类型的相互转换？                     | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question19_answer.md) |
