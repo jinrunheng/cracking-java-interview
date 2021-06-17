@@ -43,6 +43,8 @@
 |      | [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question21.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question21_answer.md) |
 |      | [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question22.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question22_answer.md) |
 |      | Java 中 new 一个对象发生了什么？                             | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question45_answer.md) |
+|      | 请说下类加载的过程？                                         |                                                              |
+|      | 什么是双亲委派模型？                                         |                                                              |
 |      |                                                              |                                                              |
 |      | **Java异常**                                                 |                                                              |
 |      | `Error`和`Exception`的区别？                                 | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question24_answer.md) |
