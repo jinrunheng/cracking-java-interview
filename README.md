@@ -7,85 +7,85 @@
 
 ### Java 基础篇
 
-| 题目                                                         | 答案解析                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **逻辑智力题**                                               |                                                              |
-| [请说出该问题的答案？](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question1.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question1_answer.md) |
-| [请说出该问题的答案？](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question2.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question2_answer.md) |
-| [请说出该问题的答案？](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question3.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question3_answer.md) |
-| [请说出该问题的答案？](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question4.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question4_answer.md) |
-| **Java基础**                                                 |                                                              |
-| `Java`中的数据类型？`String`属于哪种类型？基本数据类型有什么？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question1.md) |
-| 用最有效率的方法计算`2`乘以`8`？                             | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question35_answer.md) |
-| 说下`&`和`&&`的区别？                                        | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question36_answer.md) |
-| [说出下面程序运行的结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question37.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question37_answer.md) |
-| 访问修饰符`public`,`private`,`protected`以及不写(`default`)时的区别？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question10_answer.md) |
-| `String`,`StringBuilder`,`StringBuffer`的区别？哪个是线程安全的？它们的应用场景？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question2.md) |
-| [说出下面程序运行的结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question3.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question3_answer.md) |
-| [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question4.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question4_answer.md) |
-| 谈一下你对面向对象的理解？                                   | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question5_answer.md) |
-| 重载是什么？重写是什么？                                     | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question6_answer.md) |
-| 为什么不能根据返回类型区分重载？                             | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question9_answer.md) |
-| [说出下面程序运行的结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question7.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question7_answer.md) |
-| [静态代码块，非静态代码块，构造器的执行顺序？请说出程序的输出结果](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question8.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question8_answer.md) |
-| 非静态方法是否可以调用静态成员变量？静态方法是否可以调用非静态成员变量？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question16_answer.md) |
-| 抽象类和接口的异同？谈一下你认为什么时候使用抽象类，什么时候使用接口？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question11_answer.md) |
-| 抽象类中的抽象方法可以被声明为`protected`修饰的吗？`private`修饰可以吗？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question12_answer.md) |
-| 接口中的抽象方法可以声明为`protected`修饰的吗？              | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question13_answer.md) |
-| 为什么`Java`中接口的成员变量被隐式声明为`public static final`？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question14_answer.md) |
-| 抽象类是否一定要有抽象方法？如果不是，那你觉得没有抽象方法的抽象类有什么意义？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question15_answer.md) |
-| `equals`和`==`的区别？                                       | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question44_answer.md) |
-| 你了解`equals()`与`hashCode()`约定吗？                       |                                                              |
-| 在`Java`中，创建对象有哪几种方式？                           | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question17_answer.md) |
-| 谈一下浅拷贝和深拷贝？                                       | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question18_answer.md) |
-| 如何实现字符串和基本数据类型的相互转换？                     | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question19_answer.md) |
-| `Integer.parseInt()`和`Integer.valueOf()`有什么区别？        | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question20_answer.md) |
-| [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question21.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question21_answer.md) |
-| [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question22.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question22_answer.md) |
-| Java 中 new 一个对象发生了什么？                             | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question45_answer.md) |
-| 请说下类加载的过程？                                         |                                                              |
-| 什么是双亲委派模型？                                         |                                                              |
-|                                                              |                                                              |
-| **Java异常**                                                 |                                                              |
-| `Error`和`Exception`的区别？                                 | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question24_answer.md) |
-| 什么是受检查异常(`Checked Exception`)？什么是不受检查异常(`Unchecked Exception`)？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question25_answer.md) |
-| 说出一些常见的运行时异常?                                    | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question26_answer.md) |
-| 写一个程序，使得运行时抛出`StackOverflowError`？             | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question27_answer.md) |
-| 写一个程序，使得运行时抛出`OutOfMemoryError`？               | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question28_answer.md) |
-| `throw`与`throws`有什么区别？                                | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question30_answer.md) |
-| [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question29.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question29_answer.md) |
-| [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question23.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question23_answer.md) |
-| 关于`Java`中的异常处理，你有什么心得或经验？                 | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question31_answer.md) |
-| **Java集合**                                                 |                                                              |
-| 常见的集合有哪些？                                           |                                                              |
-| 使用过`Collections`这个工具类么？简单介绍下你使用过哪些方法？ |                                                              |
-| `Collection`和`Collections`分别是什么？                      |                                                              |
-| `ArrayList`与`LinkedList`有什么区别？                        | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question39_answer.md) |
-| 你知道有哪些初始化`map`的方法？                              | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question34_answer.md) |
-| 你知道有哪些遍历`map`的方法？                                | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question33_answer.md) |
-| 初始化一个空的`ArrayList` ,此时底层数组的容量为多少？添加一个元素后，容量为多少？ |                                                              |
-| 初始化一个大小为 `5` 的`ArrayList`,此时底层数组的容量为多少？添加一个元素后，容量为多少？ |                                                              |
-| 了解`ArrayList` 的扩容机制吗？扩容增长因子是多少？为什么？   |                                                              |
-| `ArrayList` 与 `LinkedList` 是线程安全的么？如果不是线程安全的，在多线程的环境中如何使用？ |                                                              |
-| 了解`HashSet` 的底层实现吗？                                 |                                                              |
-| 既然`HashSet` 的底层实现为`HashMap`,且只使用了 `HashMap` 的 `key` ，那么直接使用`null` 作为`HashMap` 的`value` 就好了，还节省内存空间，为何要使用 `PRESENT` 作为 `value` 呢？ |                                                              |
-| `HashSet` 与 `TreeSet` 的区别？                              |                                                              |
-| 请说出该程序的运行结果？                                     |                                                              |
-| 你了解`HashMap` 的底层实现么？`HashMap` 从 `JDK 8` 开始发生了怎样的改变？ |                                                              |
-| `HashMap` 是线程安全的么？如果不是，会发生怎样的问题？       |                                                              |
-| `HashMap` 的初始化容量为什么是 `16` ? 为什么 `HashMap` 的初始化容量要设计成 `2` 的幂？ |                                                              |
-| `HashMap` 的负载因子为什么是 `0.75` ?  为什么要设计成链表长度超过 `8` 的时候转变为红黑树？ |                                                              |
-| `HashTable` 与 `HashMap` 的区别？                            |                                                              |
-| `ConcurrentHashMap` 是如何实现线程安全的？为何它比 `HashTable` 更高效？ |                                                              |
-| `Comparable`和`Comparator`接口有什么区别？                   | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question32_answer.md) |
-| `git`和`svn`有什么区别？                                     |                                                              |
-| 说下你平时常用的几个`git`命令？                              |                                                              |
-| 说下什么是单例模式？                                         |                                                              |
-| 请写出一个单例模式的示例程序？                               |                                                              |
-| 了解代理模式吗？请简单描述下？                               | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question40_answer.md) |
-| 简单说明下 JDK 动态代理是如何实现的？                        | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question41_answer.md) |
-| 为什么 JDK 动态代理是基于接口实现的？                        | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question42_answer.md) |
-| CGLIB 动态代理和 JDK 动态代理的区别？                        | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question43_answer.md) |
+| 序号 | 题目                                                         | 答案解析                                                     |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|      | **逻辑智力题**                                               |                                                              |
+|      | [请说出该问题的答案？](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question1.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question1_answer.md) |
+|      | [请说出该问题的答案？](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question2.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question2_answer.md) |
+|      | [请说出该问题的答案？](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question3.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question3_answer.md) |
+|      | [请说出该问题的答案？](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question4.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/logic/question4_answer.md) |
+|      | **Java基础**                                                 |                                                              |
+|      | `Java`中的数据类型？`String`属于哪种类型？基本数据类型有什么？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question1.md) |
+|      | 用最有效率的方法计算`2`乘以`8`？                             | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question35_answer.md) |
+|      | 说下`&`和`&&`的区别？                                        | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question36_answer.md) |
+|      | [说出下面程序运行的结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question37.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question37_answer.md) |
+|      | 访问修饰符`public`,`private`,`protected`以及不写(`default`)时的区别？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question10_answer.md) |
+|      | `String`,`StringBuilder`,`StringBuffer`的区别？哪个是线程安全的？它们的应用场景？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question2.md) |
+|      | [说出下面程序运行的结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question3.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question3_answer.md) |
+|      | [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question4.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question4_answer.md) |
+|      | 谈一下你对面向对象的理解？                                   | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question5_answer.md) |
+|      | 重载是什么？重写是什么？                                     | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question6_answer.md) |
+|      | 为什么不能根据返回类型区分重载？                             | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question9_answer.md) |
+|      | [说出下面程序运行的结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question7.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question7_answer.md) |
+|      | [静态代码块，非静态代码块，构造器的执行顺序？请说出程序的输出结果](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question8.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question8_answer.md) |
+|      | 非静态方法是否可以调用静态成员变量？静态方法是否可以调用非静态成员变量？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question16_answer.md) |
+|      | 抽象类和接口的异同？谈一下你认为什么时候使用抽象类，什么时候使用接口？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question11_answer.md) |
+|      | 抽象类中的抽象方法可以被声明为`protected`修饰的吗？`private`修饰可以吗？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question12_answer.md) |
+|      | 接口中的抽象方法可以声明为`protected`修饰的吗？              | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question13_answer.md) |
+|      | 为什么`Java`中接口的成员变量被隐式声明为`public static final`？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question14_answer.md) |
+|      | 抽象类是否一定要有抽象方法？如果不是，那你觉得没有抽象方法的抽象类有什么意义？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question15_answer.md) |
+|      | `equals`和`==`的区别？                                       | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question44_answer.md) |
+|      | 你了解`equals()`与`hashCode()`约定吗？                       |                                                              |
+|      | 在`Java`中，创建对象有哪几种方式？                           | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question17_answer.md) |
+|      | 谈一下浅拷贝和深拷贝？                                       | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question18_answer.md) |
+|      | 如何实现字符串和基本数据类型的相互转换？                     | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question19_answer.md) |
+|      | `Integer.parseInt()`和`Integer.valueOf()`有什么区别？        | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question20_answer.md) |
+|      | [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question21.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question21_answer.md) |
+|      | [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question22.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question22_answer.md) |
+|      | Java 中 new 一个对象发生了什么？                             | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question45_answer.md) |
+|      | 请说下类加载的过程？                                         |                                                              |
+|      | 什么是双亲委派模型？                                         |                                                              |
+|      |                                                              |                                                              |
+|      | **Java异常**                                                 |                                                              |
+|      | `Error`和`Exception`的区别？                                 | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question24_answer.md) |
+|      | 什么是受检查异常(`Checked Exception`)？什么是不受检查异常(`Unchecked Exception`)？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question25_answer.md) |
+|      | 说出一些常见的运行时异常?                                    | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question26_answer.md) |
+|      | 写一个程序，使得运行时抛出`StackOverflowError`？             | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question27_answer.md) |
+|      | 写一个程序，使得运行时抛出`OutOfMemoryError`？               | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question28_answer.md) |
+|      | `throw`与`throws`有什么区别？                                | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question30_answer.md) |
+|      | [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question29.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question29_answer.md) |
+|      | [说出下面程序的输出结果，并解释为什么？](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question23.md) | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question23_answer.md) |
+|      | 关于`Java`中的异常处理，你有什么心得或经验？                 | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question31_answer.md) |
+|      | **Java集合**                                                 |                                                              |
+|      | 常见的集合有哪些？                                           |                                                              |
+|      | 使用过`Collections`这个工具类么？简单介绍下你使用过哪些方法？ |                                                              |
+|      | `Collection`和`Collections`分别是什么？                      |                                                              |
+|      | `ArrayList`与`LinkedList`有什么区别？                        | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question39_answer.md) |
+|      | 你知道有哪些初始化`map`的方法？                              | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question34_answer.md) |
+|      | 你知道有哪些遍历`map`的方法？                                | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question33_answer.md) |
+|      | 初始化一个空的`ArrayList` ,此时底层数组的容量为多少？添加一个元素后，容量为多少？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question46_answer.md) |
+|      | 初始化一个大小为 `5` 的`ArrayList`,此时底层数组的容量为多少？添加一个元素后，容量为多少？ |                                                              |
+|      | 了解`ArrayList` 的扩容机制吗？扩容增长因子是多少？为什么？   |                                                              |
+|      | `ArrayList` 与 `LinkedList` 是线程安全的么？如果不是线程安全的，在多线程的环境中如何使用？ |                                                              |
+|      | 了解`HashSet` 的底层实现吗？                                 |                                                              |
+|      | 既然`HashSet` 的底层实现为`HashMap`,且只使用了 `HashMap` 的 `key` ，那么直接使用`null` 作为`HashMap` 的`value` 就好了，还节省内存空间，为何要使用 `PRESENT` 作为 `value` 呢？ |                                                              |
+|      | `HashSet` 与 `TreeSet` 的区别？                              |                                                              |
+|      | 请说出该程序的运行结果？                                     |                                                              |
+|      | 你了解`HashMap` 的底层实现么？`HashMap` 从 `JDK 8` 开始发生了怎样的改变？ |                                                              |
+|      | `HashMap` 是线程安全的么？如果不是，会发生怎样的问题？       |                                                              |
+|      | `HashMap` 的初始化容量为什么是 `16` ? 为什么 `HashMap` 的初始化容量要设计成 `2` 的幂？ |                                                              |
+|      | `HashMap` 的负载因子为什么是 `0.75` ?  为什么要设计成链表长度超过 `8` 的时候转变为红黑树？ |                                                              |
+|      | `HashTable` 与 `HashMap` 的区别？                            |                                                              |
+|      | `ConcurrentHashMap` 是如何实现线程安全的？为何它比 `HashTable` 更高效？ |                                                              |
+|      | `Comparable`和`Comparator`接口有什么区别？                   | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question32_answer.md) |
+|      | `git`和`svn`有什么区别？                                     |                                                              |
+|      | 说下你平时常用的几个`git`命令？                              |                                                              |
+|      | 说下什么是单例模式？                                         |                                                              |
+|      | 请写出一个单例模式的示例程序？                               |                                                              |
+|      | 了解代理模式吗？请简单描述下？                               | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question40_answer.md) |
+|      | 简单说明下 JDK 动态代理是如何实现的？                        | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question41_answer.md) |
+|      | 为什么 JDK 动态代理是基于接口实现的？                        | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question42_answer.md) |
+|      | CGLIB 动态代理和 JDK 动态代理的区别？                        | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question43_answer.md) |
 
 ### 数据结构与算法篇
 
