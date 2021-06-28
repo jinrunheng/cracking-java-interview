@@ -64,8 +64,8 @@
 |      | 你知道有哪些初始化`map`的方法？                              | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question34_answer.md) |
 |      | 你知道有哪些遍历`map`的方法？                                | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question33_answer.md) |
 |      | 初始化一个空的`ArrayList` ,此时底层数组的容量为多少？添加一个元素后，容量为多少？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question46_answer.md) |
-|      | 初始化一个大小为 `5` 的`ArrayList`,此时底层数组的容量为多少？添加一个元素后，容量为多少？ |                                                              |
-|      | 了解`ArrayList` 的扩容机制吗？扩容增长因子是多少？为什么？   |                                                              |
+|      | 初始化一个大小为 `5` 的`ArrayList`,此时底层数组的容量为多少？添加一个元素后，容量为多少？ | [答案](https://github.com/jinrunheng/cracking-java-interview/blob/main/java-basic/question47_answer.md) |
+|      | 了解`ArrayList` 的扩容机制吗？扩容增长因子是多少？为什么？   | 48                                                           |
 |      | `ArrayList` 与 `LinkedList` 是线程安全的么？如果不是线程安全的，在多线程的环境中如何使用？ |                                                              |
 |      | 了解`HashSet` 的底层实现吗？                                 |                                                              |
 |      | 既然`HashSet` 的底层实现为`HashMap`,且只使用了 `HashMap` 的 `key` ，那么直接使用`null` 作为`HashMap` 的`value` 就好了，还节省内存空间，为何要使用 `PRESENT` 作为 `value` 呢？ |                                                              |
